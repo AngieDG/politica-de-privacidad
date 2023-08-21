@@ -1,3 +1,2 @@
-POLÍTICA DE PRIVACIDAD
-
-
+# politica-de-privacidad
+# politica-de-privacidad
